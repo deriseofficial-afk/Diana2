@@ -13,7 +13,7 @@ start_txt = """
  
 ✰ 𝗣ᴀʜʟᴇ 𝗣ᴀᴘᴀ 𝗕ᴏʟ 𝗥ᴇᴘᴏ 𝗢ᴡɴᴇʀ ᴋᴏ 
 
-✰ || @ll_NOBITA_DEFAULTERS_ll ||
+✰ || @NoOneIsMinee ||
  
 ✰ 𝗥ᴜɴ 24x7 𝗟ᴀɢ 𝗙ʀᴇᴇ 𝗪ɪᴛʜᴏᴜᴛ 𝗦ᴛᴏᴘ
  
@@ -29,8 +29,8 @@ async def start(_, msg):
           InlineKeyboardButton("𝗔ᴅᴅ ᴍᴇ 𝗠ᴀʙʏ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("𝗛ᴇʟᴘ", url="https://t.me/https://t.me/+WLTHgUAvkYVmNTg9"),
-          InlineKeyboardButton("𝚴 𝐎 𝐁 𝚰 𝐓 𝚲", url="https://t.me/ll_NOBITA_DEFAULTERS_ll"),
+          InlineKeyboardButton("𝗛ᴇʟᴘ", url="https://t.me/https://t.me/OrbinexX_Society"),
+          InlineKeyboardButton("𝑯𝒚𝒑𝒆𝒓 𝑱𝒐𝒓𝒆𝒏 †", url="https://t.me/NoOneIsMinee"),
           ],
                [
                 InlineKeyboardButton("˹ɴᴏʙɪᴛᴀ ꭙ ꜱᴜᴘᴘᴏʀᴛ˼", url=f"https://t.me/NOB1TA_SUPPORT"),
@@ -43,7 +43,7 @@ InlineKeyboardButton("𝗠ᴀɪɴ 𝗕ᴏᴛ", url=f"https://t.me/NOBITA_MUSIC_R
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://files.catbox.moe/tcz7s6.jpg",
+        photo="https://files.catbox.moe/9b5fx0.webp",
         caption=start_txt,
         reply_markup=reply_markup
     )
