@@ -44,7 +44,7 @@ sᴏ ᴜsᴇ ʏᴏᴜʀ ᴀɴʏ ᴏᴛʜᴇʀ ɪ'ᴅ sᴇssɪᴏɴ 👈🏻
 <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="200"/>
 </a>
 
-<a href="https://render.com/deploy?repo=https://github.com/iamnobita09/NOBITA_MUSIC">
+<a href="https://render.com/deploy?repo=https://github.com/SUSANTxBOTS/SAAHIBA_MUSIC">
 <img src="https://render.com/images/deploy-to-render-button.svg" width="200"/>
 </a>
 </p>
