@@ -40,7 +40,7 @@ sᴏ ᴜsᴇ ʏᴏᴜʀ ᴀɴʏ ᴏᴛʜᴇʀ ɪ'ᴅ sᴇssɪᴏɴ 👈🏻
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/iamnobita09/NOBITA_MUSIC"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
 </a>
 
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/iamnobita09/NOBITA_MUSIC&branch=main&name=nobita-music">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/SUSANTXBOTS/SAAHIBA_MUSIC&branch=main&name=nobita-music">
 <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="200"/>
 </a>
 
