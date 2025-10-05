@@ -1,12 +1,12 @@
 {
-    "name": "NOBITA_MUSIC",
+    "name": "𝐍𝐎𝐁𝐈𝐓𝐀 𝐌𝐔𝐒𝐈𝐂",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://files.catbox.moe/bswmmi.jpg",
+    "logo": "https://telegra.ph/file/b61227af05544deb76a34.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "VILLAIN",
+    "NOBITA",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -14,31 +14,31 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "21134445",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "231c18ea7273824491d6bf05425ab74e",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "8324734290:AAEDUDZIxvuDD4vJgZ6cipkCDz3Ryr02bjw",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://susantpc1232_db_user:MsGk2PTlLnzhh2VQ@cluster0.uqxwqld.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "8156708830",
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram v2 String Session from @KING_STRING_SESSION_BOT on Telegram.",
+        "description": "A Pyrogram v2 String Session from @STRINGSEASO_NBOT on Telegram.",
         "value": "",
         "required": true
       },
@@ -53,8 +53,8 @@
         "required": false
       },
       "LOGGER_ID": {
-        "description": "Your Log Group ID, add your bot or assistant and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
+        "value": " -1002754355006",
         "required": true
       }
     },
@@ -70,4 +70,4 @@
           }
       ],
       "stack": "container"
-  }
+}
